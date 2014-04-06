@@ -1,6 +1,6 @@
 {
   "name": "scsslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs bindings for scss-lint",
   "repository": "https://github.com/FWeinb/scsslint",
   "author": {
