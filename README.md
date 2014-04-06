@@ -1,4 +1,4 @@
-# scsslint
+# scsslint [![Build Status](https://travis-ci.org/FWeinb/scsslint.svg?branch=master)](https://travis-ci.org/FWeinb/scsslint)
 
 > nodejs bindings for [scss-lint](https://github.com/causes/scss-lint)
 
