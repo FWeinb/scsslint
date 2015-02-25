@@ -33,7 +33,7 @@
   "dependencies": {
     "async": "^0.6.2",
     "dargs": "^0.1.0",
-    "chalk": "^0.4.0",
+    "chalk": "^1.0.0",
     "win-spawn": "^2.0.0",
     "which": "^1.0.5"
   }
